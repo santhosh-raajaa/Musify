@@ -1,0 +1,11 @@
+/* .rowFlex{
+   display: flex;
+   height: auto;
+   
+}
+
+@media (max-width:900px){
+   .rowFlex {
+        flex-direction:column;
+    }
+} */

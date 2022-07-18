@@ -1,0 +1,32 @@
+
+.app{
+    background-color: rgb(3, 3, 3);
+    min-width:500px;
+    height:100%;
+}
+
+.test{
+    color: rgb(26, 34, 77);
+    background: linear-gradient(#141414, #030e1b);
+}
+/* .Login{
+    display: grid;
+    place-items: center;
+    height: 100vh;
+    background-color: rgb(0, 0, 0);
+}
+
+.Login > img{
+    width:50%;
+
+}
+
+.Login > a {
+    padding: 20px;
+    border-radius: 99px;
+    cursor: pointer;
+    font-weight: 800;
+    color: rgb(255, 255, 255);
+    background-color:#c2200b;
+    text-decoration: none;
+} */
