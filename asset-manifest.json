@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Musify/static/css/main.55ed0577.css",
+    "main.js": "/Musify/static/js/main.aed81570.js",
+    "static/media/TokyoDrift.mp3": "/Musify/static/media/TokyoDrift.196cf696723760a784c1.mp3",
+    "static/media/Rowdy.mp3": "/Musify/static/media/Rowdy.a3dfe7c0e537cbba2cb6.mp3",
+    "static/media/WildestDreams.mp3": "/Musify/static/media/WildestDreams.0fe522d52ab6dbd3ae1f.mp3",
+    "static/media/SoBaby.mp3": "/Musify/static/media/SoBaby.68b3acb5fca132b50392.mp3",
+    "static/media/rakita.mp3": "/Musify/static/media/rakita.aaf4696258e1b0d2f31a.mp3",
+    "static/media/TumTum.mp3": "/Musify/static/media/TumTum.a7d019044c955517e398.mp3",
+    "static/media/Stay.mp3": "/Musify/static/media/Stay.557215c976122ba0a09e.mp3",
+    "static/media/TailBeast.mp3": "/Musify/static/media/TailBeast.63e4207319fd5299c33a.mp3",
+    "static/media/wolves.mp3": "/Musify/static/media/wolves.7f0b70239dbcdf23f351.mp3",
+    "static/media/sugar.mp3": "/Musify/static/media/sugar.b25f48d4cdabf3752205.mp3",
+    "static/media/benny.mp3": "/Musify/static/media/benny.3c6ae86b16f7207d2940.mp3",
+    "static/media/SugarCrush.mp3": "/Musify/static/media/SugarCrush.d3b09b72aeac146d365f.mp3",
+    "index.html": "/Musify/index.html",
+    "main.55ed0577.css.map": "/Musify/static/css/main.55ed0577.css.map",
+    "main.aed81570.js.map": "/Musify/static/js/main.aed81570.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55ed0577.css",
+    "static/js/main.aed81570.js"
+  ]
+}
